@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://app.getoutline.com/images/logo.png" width="80" alt="Outline" />
+  <img src="docs/outline-icon.svg" width="80" alt="Outline" />
 </p>
 
 <h1 align="center">Outline CLI</h1>
